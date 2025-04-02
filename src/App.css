@@ -14,6 +14,6 @@ body,
     grid-template-columns: 1fr 1fr;
 }
 
-.item {
+.grid-container > * {
     background-color: #daa520;
 }
